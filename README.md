@@ -1,12 +1,19 @@
-# React + Vite
+# 🔢 React Counter App with Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple Counter App built using **React.js** and styled with **Tailwind CSS**. It allows users to:
 
-Currently, two official plugins are available:
+- ➕ Increase the counter
+- ➖ Decrease the counter
+- 🔄 Reset the counter to zero
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖼️ Live Demo
 
-## Expanding the ESLint configuration
+👉 [View Live Site on Netlify](https://counter416.netlify.app)
+_(Replace with your actual Netlify URL after deployment)_
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Features
+
+- Functional components with React Hooks (`useState`)
+- Tailwind CSS for clean and responsive design
+- Three interactive buttons: **Increase**, **Decrease**, and **Reset**
+- Fully responsive layout
