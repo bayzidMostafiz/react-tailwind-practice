@@ -9,7 +9,6 @@ This is a simple Counter App built using **React.js** and styled with **Tailwind
 ## 🖼️ Live Demo
 
 👉 [View Live Site on Netlify](https://counter416.netlify.app)
-_(Replace with your actual Netlify URL after deployment)_
 
 ## ⚙️ Features
 
